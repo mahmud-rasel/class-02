@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    background-color: #FDEBED;
+}
+div {
+    width: 800PX;
+    margin-right: auto;
+    MARGIN-LEFT: auto;
+    TEXT-ALIGN: center;
+    BACKGROUND-COLOR: WHITE;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+h2 {
+    /* text-align: center; */
+    padding-left: 200px;
+    padding-right: 200px;
+}
+img {
+    width: 100px;
+}
+.big-img{
+
+width: 100%;
+
+margin-top: 50px;
+}
+.left {text-align: left;width: 200px;}
+p{
+    text-align: left;
+    scroll-margin: 50px;
+}
+
+.cent{
+	
+background-color: green;
+	
+padding: 100px;
+	
+color: white;
+}
+.green{
+    color: green;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+.yellow{
+    color: yellow;
+}
